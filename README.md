@@ -1,10 +1,21 @@
 # Hi 👋, I'm Vishwa Panchal
-🚀 Aspiring Cloud & DevOps Engineer | Cloud Applications Enthusiast  
 
-## 🌱 About Me
-- 🔭 I’m currently learning **DevOps, Cloud, and CI/CD**
-- 💬 Ask me about **Cloud, DevOps, and React**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/vishwaapanchaal/)
+💻 Computer Science Engineer | ☁️ Cloud Enthusiast | 🚀 Aspiring DevOps 
+
+I’m passionate about building scalable digital experiences and exploring automation with DevOps practices.  
+Currently diving deeper into **Cloud Platforms (AWS, GCP)**, **CI/CD Pipelines**, **Frontend development** and **Client-focused communication** through internships.  
+
+### 🚀 About Me
+- 🎓 B.Tech in CSE (Cloud Specialization) @ Ganpat University  
+- 💡 Worked on ERP & CRM as a Business Central Engineer (Mindlink Infotech)  
+- 👨‍💻 Love working with **React.js, Node.js, Docker, GitHub Actions**  
+- 🌱 Currently exploring **DevOps practices, Frontend development**  
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS  
+- **Cloud:** AWS | GCP | Azure (basics)  
+- **DevOps Tools:** Git, Docker, GitHub Actions, CI/CD  
+- **Databases:** MySQL, MongoDB  
 
 ## 🛠️ Languages and Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
